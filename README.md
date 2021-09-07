@@ -9,3 +9,6 @@ Cheers.
 # Projects
 ## US Medical Insurance Data
 A simple analysis of medical insurance data from the US using basic Python and object oriented programming.
+
+## Airbnb Price Analysis
+An analysis of the determinants of price of Airbnb apartments in Berlin, multiple linear regression on cross-sectional data
